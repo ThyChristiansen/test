@@ -1,0 +1,16 @@
+# Mac Auto-Generated Files
+.DS_Store
+.DS_STORE/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# ignore package-lock as it complicates merging
+package-lock.json
